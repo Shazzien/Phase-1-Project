@@ -60,7 +60,7 @@ Click on this link below to explore the dashbaord.
 **[View interactive dashboard](https://public.tableau.com/app/profile/sharon.thiga/viz/Tableaudashboardphase1project/Dashboard1?publish=yes)**
 
 ## Findings
-In reference to my notebook;  **[view full notebook](index.ipynb)** , I was able to come up with the following findings;
+In reference to my notebook;  **[view full notebook](index.ipynb)**  and Tableau dashboard,I was able to come up with the following findings;
 - Cessna model-152 had the highest number of accidents with fatal injuries hence very risky to travel with.
 - United States recordes the highest number of Total Fatal Injuries compared to other geograhical regions.
 - Cessna model-152 recorded the highest number of accidents hence not safe to travel with.
@@ -68,11 +68,12 @@ In reference to my notebook;  **[view full notebook](index.ipynb)** , I was able
 - Aircrats with Reciprocating engine type recorded the highest number of incidents hence not recommended.
 - People who travelled for the purpose of personal reasons were most affected by fatal injuries.
 - Most models of Cessna aircraft experienced substantial damage which is very risky.
-
+- Aircraft accidents have been increasing over the years.
 ## Recommendations and Conclusion.
 - Boeing and Mcdonnell Douglas aircrafts registered the highest number of uninjured people, hence safe to travel with a and would recommend to purchase.
 - Turbo jet is best recommended for engines in airplanes as it was less involved in accidents.
 - It is recommended to avoid using flight routes through United States since the region had many incidents.
+- Cessna aircraft models are not the best to travel with sice they caused many accidents and fatalities as well.
 
 
 
