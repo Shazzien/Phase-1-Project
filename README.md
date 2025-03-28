@@ -77,7 +77,7 @@ In reference to my notebook;  **[view full notebook](index.ipynb)**  and Tableau
 
 ## Tools and Technologies used
 - Programming languages; Python
--Libraries; Pandas, Matplotlib/Seaborn(visualizations)
+- Libraries; Pandas, Matplotlib/Seaborn(visualizations)
 
 
 
