@@ -54,7 +54,7 @@ avi_df.groupby('Engine.Type')['Event.Id'].count() #outputs the engine type that 
 - Refer to my notebook to check out for the visualizations. **[view full notebook](index.ipynb)**
 ##### Tableau dashboard
 Here is a representation of an interactive dashboard from Tableau to get more visual insights from the dataset.
-![Interactive dashboard](image-1.png) 
+![View dashboard](interactive_dashboard.png)
 
 Click on this link below to explore the dashbaord.
 **[View interactive dashboard](https://public.tableau.com/app/profile/sharon.thiga/viz/Tableaudashboardphase1project/Dashboard1?publish=yes)**
