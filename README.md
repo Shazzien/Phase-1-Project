@@ -75,6 +75,10 @@ In reference to my notebook;  **[view full notebook](index.ipynb)**  and Tableau
 - It is recommended to avoid using flight routes through United States since the region had many incidents.
 - Cessna aircraft models are not the best to travel with sice they caused many accidents and fatalities as well.
 
+## Tools and Technologies used
+- Programming languages; Python
+-Libraries; Pandas, Matplotlib/Seaborn(visualizations)
+
 
 
 
